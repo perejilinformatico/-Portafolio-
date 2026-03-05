@@ -32,11 +32,7 @@ function App() {
           <p>La verdad es simple por q encontre un diseño simple, hice el mio y asi quedo 👀</p>
       </div>
       <header className='flex justify-between items-center text-center'>
-<<<<<<< HEAD
-        <h1 className='text-3xl font-bold relative bottom-1 my-3 ml-1' id="santiago__h1">Santiago</h1>
-=======
         <h1 className='text-3xl font-bold relative bottom-1 my-3.5' id="santiago__h1">Santiago</h1>
->>>>>>> 93aaf5d (Nuevos cambios)
         <div>
           <img src={i} alt='Barra_de_datos' className='w-10 m-1 my-3' onClick={Click}/>
         </div>
