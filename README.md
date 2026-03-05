@@ -71,3 +71,10 @@ export default defineConfig([
   },
 ])
 ```
+# Rama de portafolio base
+
+## Cosas a completar
+
+- Diseño con html y tailwind
+- Cosas interactivas
+- Proyectos para exponer
